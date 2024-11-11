@@ -7,8 +7,8 @@ function App() {
   return (
     <>
       <div className="flex flex-col items-center h-screen w-screen bg-index-bg bg-no-repeat bg-cover bg-center">
-        <h1 className="text-5xl mt-[160px] font-bold text-purple-300 uppercase animate-pulse cursor-progress">
-          Home Of Ray
+        <h1 className="text-5xl mt-[100px] font-bold text-purple-300 uppercase animate-pulse cursor-progress">
+          Home Of XiaoPotato
         </h1>
         <div className="card mt-4">
           <button
